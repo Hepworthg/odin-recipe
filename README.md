@@ -1,2 +1,3 @@
-# odin-recipe
-My project
+# Git-tester
+My first GitHub Repo!
+Hello Hepworth
